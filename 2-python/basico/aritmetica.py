@@ -20,6 +20,8 @@ x = apply_to_one(my_double)  # é igual a 2
 y = apply_to_one(lambda z: z + 4)  # é igual a 5
 
 another_double = lambda z: 2 * z  # não faça isso
+
+
 def another_double2(z): return z * 2  # faça isso
 
 
