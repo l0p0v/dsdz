@@ -1,3 +1,4 @@
+# coding=utf-8
 my_list = [1, 2]
 my_tuple = (1, 2)
 other_tuple = 3, 4

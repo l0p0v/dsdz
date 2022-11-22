@@ -1,3 +1,4 @@
+# coding=utf-8
 x = 0
 
 if x > 2:

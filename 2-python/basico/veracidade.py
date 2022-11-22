@@ -1,3 +1,4 @@
+# coding=utf-8
 one_is_less_than_two = 1 < 2  # é igual a True
 true_equals_false = True == False  # é igual a False
 

@@ -1,3 +1,4 @@
+# coding=utf-8
 integer_list = [1, 2, 3]
 heterogeneous = ["string", 0.1, True]
 list_of_lists = [integer_list, heterogeneous]

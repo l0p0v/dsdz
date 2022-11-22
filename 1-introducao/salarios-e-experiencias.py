@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from collections import defaultdict
 
 salaries_and_tenures = [(83000, 8.7), (88000, 8.1),

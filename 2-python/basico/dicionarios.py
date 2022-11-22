@@ -1,3 +1,4 @@
+# coding=utf-8
 empty_dict = {}  # Pythonic
 empty_dict2 = dict()  # menos Pythonic
 grades = {"Joel": 80, "Tim": 95}  # dicionário literal

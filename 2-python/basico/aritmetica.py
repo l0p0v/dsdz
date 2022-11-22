@@ -1,3 +1,6 @@
+# coding=utf-8
+
+
 def double(x):
     """
     Aqui é onde você coloca um docstring (cadeia de caracteres de documentação) opcional

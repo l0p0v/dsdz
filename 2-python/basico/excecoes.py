@@ -1,3 +1,4 @@
+# coding=utf-8
 try:
     print(0 / 0)
 except ZeroDivisionError:

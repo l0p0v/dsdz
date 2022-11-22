@@ -1,3 +1,4 @@
+# coding=utf-8
 for i in list(range(1, 6)):
     print(i)  # primeira linha para o bloco "for i"
     for j in list(range(1, 6)):

@@ -1,3 +1,4 @@
+# coding=utf-8
 single_quoted_string = 'data science'
 double_quoted_string = "data science"
 
